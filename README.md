@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@8infinitecloud/30-nites-of-code)  
+  ![@8infinitecloud #30NitesOfCode](https://www.codedex.io/api/petStatus?user=8infinitecloud)
