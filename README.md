@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning PYTHON
 - 👯 I’m looking to collaborate on DEVOPS
 - 🤔 I’m looking for help with IA/ML
-- 💬 Ask me about DEVOPS
+- 💬 Ask me about CLOUD
 - 📫 How to reach me: munozhassel@outlook.com
 - ⚡ Fun fact: ...
 
