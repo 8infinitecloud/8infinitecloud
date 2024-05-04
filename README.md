@@ -1,19 +1,18 @@
-### Hi there 👋
-
+## Hi there 👋
 <!--
 **8infinitecloud/8infinitecloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on ORION
+- 🌱 I’m currently learning PYTHON
+- 👯 I’m looking to collaborate on DEVOPS
+- 🤔 I’m looking for help with IA/ML
+- 💬 Ask me about DEVOPS
+- 📫 How to reach me: munozhassel@outlook.com
+- ⚡ Fun fact: ...
+
+Actually is learning python on CODEDEX and completading this challenge:
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@8infinitecloud/30-nites-of-code)  
   ![@8infinitecloud #30NitesOfCode](https://www.codedex.io/api/petStatus?user=8infinitecloud)
