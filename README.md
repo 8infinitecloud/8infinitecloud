@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: munozhassel@outlook.com
 - ⚡ Fun fact: ...
 
-# Actually is learning PYTHON on CODEDEX and completading this challenge:
+# CODEDEX
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@8infinitecloud/30-nites-of-code)  
   ![@8infinitecloud #30NitesOfCode](https://www.codedex.io/api/petStatus?user=8infinitecloud)
