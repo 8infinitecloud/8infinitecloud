@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@8infinitecloud/30-nites-of-code)  
   ![@8infinitecloud #30NitesOfCode](https://www.codedex.io/api/petStatus?user=8infinitecloud)
+
+
+![Peru HUG - Terraform Associate 004](./peru-hug-terraform-badge-2026-04-26.svg)
+
+<!-- Badge generado por Peru HUG Bootcamps -->
+<!-- Actualizado: 26/4/2026 -->
+<!-- Progreso: 0% (0/25 labs) -->
