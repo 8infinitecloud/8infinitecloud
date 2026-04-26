@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="120" fill="#FAFAFA"/>
+  
+  <!-- Border (neobrutalist) -->
+  <rect width="400" height="120" fill="none" stroke="#1a1a1a" stroke-width="4"/>
+  
+  <!-- Shadow effect -->
+  <rect x="4" y="4" width="400" height="120" fill="none" stroke="rgba(0, 0, 0, 0.3)" stroke-width="2"/>
+  
+  <!-- Logo placeholder (simplified) -->
+  <circle cx="40" cy="40" r="25" fill="#7B42BC" stroke="#1a1a1a" stroke-width="2"/>
+  <text x="40" y="48" font-family="Space Mono, monospace" font-weight="700" font-size="20" fill="white" text-anchor="middle">PH</text>
+  
+  <!-- Text section -->
+  <g>
+    <text x="80" y="30" font-family="Space Mono, monospace" font-weight="700" font-size="16" fill="#1a1a1a">PERU HUG</text>
+    <text x="80" y="52" font-family="Space Mono, monospace" font-weight="700" font-size="14" fill="#7B42BC">Terraform Associate 004</text>
+  </g>
+  
+  <!-- Progress section -->
+  <g transform="translate(20, 75)">
+    <text font-family="Space Mono, monospace" font-weight="700" font-size="14" fill="#1a1a1a">0% - 0/25 labs completados</text>
+    
+    <!-- Progress bar background -->
+    <rect y="8" width="360" height="20" fill="white" stroke="#1a1a1a" stroke-width="2"/>
+    
+    <!-- Progress bar fill -->
+    <rect y="8" width="0" height="20" fill="#7B42BC"/>
+  </g>
+</svg>
